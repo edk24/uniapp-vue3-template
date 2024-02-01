@@ -1,0 +1,22 @@
+page {
+    // background-color: $u-bg-color;
+    font-size: 30rpx;
+}
+
+.primary {
+	// color: $u-type-primary;
+}
+
+// .bg-primary {
+// 	background-color: $u-type-primary;
+// }
+
+// .bg-color {
+//     background-color: $u-bg-color;
+// }
+
+button {
+    &::after{
+        border:none;
+    }
+}

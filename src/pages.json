@@ -1,0 +1,23 @@
+{
+    "pages": [
+        {
+            "path": "pages/login/login",
+            "style": {
+                "navigationBarTitleText": "登录",
+                "titleNView": false
+            }
+        }
+    ],
+    "globalStyle": {
+        "pageOrientation": "auto",
+        "navigationBarTextStyle": "white",
+        "navigationBarTitleText": "应用名称",
+        "navigationBarBackgroundColor": "#5A90F5",
+        "backgroundColor": "#f3f3f3",
+        "color": "#ffffff",
+        "h5": {
+            "navigationStyle": "custom",
+            "titleNView": false
+        }
+    }
+}

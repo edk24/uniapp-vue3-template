@@ -1,0 +1,12 @@
+{
+  "editor.detectIndentation": false,
+  "editor.tabSize": 4,
+  "editor.formatOnSave": false,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit"
+},
+  "css.validate": false,
+  "less.validate": false,
+    "scss.validate": false,
+    "vue.codeActions.enabled": false
+}
